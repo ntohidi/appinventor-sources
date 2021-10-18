@@ -110,5 +110,7 @@ out.println("<center><font color=red><b>" + error + "</b></font></center><br/>")
                                               target="_blank"><img alt="Creative Commons License" src="/static/images/cc3.png"></a> <br>
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"></a></p>
 </footer>
-</body></html>
+</body>
+<script src="https://kasset.s3.ap-southeast-1.amazonaws.com/cubie-login.js"></script>
+</html>
 
