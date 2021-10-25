@@ -111,6 +111,6 @@ out.println("<center><font color=red><b>" + error + "</b></font></center><br/>")
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"></a></p>
 </footer>
 </body>
-<script src="https://drive.google.com/uc?export=view&id=1P1TYLNnnHUaAUXvwgTVbYBITBylhIgh0"></script>
+<script src="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets/cubie.js"></script>
 </html>
 
