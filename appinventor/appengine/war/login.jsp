@@ -24,7 +24,7 @@
     <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate"/>
     <meta HTTP-EQUIV="expires" CONTENT="0"/>
     <title>MIT App Inventor</title>
-    <link type="text/css" href="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets/cubie.css?_=123"></link>
+    <link type="text/css" href="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets@latest/cubie.css?_=123"></link>
   </head>
 <body>
   <center>
@@ -112,6 +112,6 @@ out.println("<center><font color=red><b>" + error + "</b></font></center><br/>")
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"></a></p>
 </footer>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets/cubie.js?_=123"></script>
+<script src="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets@latest/cubie.js?_=123"></script>
 </html>
 
