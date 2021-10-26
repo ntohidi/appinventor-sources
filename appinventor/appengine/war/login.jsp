@@ -24,7 +24,7 @@
     <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate"/>
     <meta HTTP-EQUIV="expires" CONTENT="0"/>
     <title>MIT App Inventor</title>
-    <script src="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets/cubie.css?_=123"></script>
+    <link type="text/css" href="https://cdn.jsdelivr.net/gh/ntohidi/mit-assets/cubie.css?_=123"></link>
   </head>
 <body>
   <center>
